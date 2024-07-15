@@ -1,0 +1,19 @@
+<html>
+<head>
+<tittle>My first HTML programe</tittle>
+</head>
+<body>
+
+<h4><b> Hello the world of HTML </b></h4>
+<b>Departement in college</b>
+<ol>
+<li>Computer tecnology</li>
+<li>nformation tecnology</li>
+<li>Mechanical Engneering</li>
+</ol>
+<p>Sanjivani is one of the Autonomous college in the maharashtra .</P>therefore MSBTE decided that they are declaring sanjiavni as Top college
+in maharashtra .<br>
+
+<marquee> <font style="Arial",size=20,color=#001><b>Sanjivani Group of Intitute,Kopargaon</b></font></marquee>
+</body>
+</html>

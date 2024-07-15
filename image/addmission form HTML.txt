@@ -1,0 +1,48 @@
+<html>
+<head>
+<tittle> <b>Sanjivani </b></tittle>
+</head>
+<body>
+
+<h1><b> Sanjivani Group of Intitute,Kopargaon</b></h1>
+<marquee direction="right"><b>Addmissions Open For Saniivani</b></marquee>
+<h3>Names of Course</h3>
+<ul>
+<li>Sanjivani K.B.P plytecnic college</li>
+<li>Sanjivani Enggneering college</li>
+<li>Sanjivani B.sc,Arts,Commerse college</li>
+<li>Sanjivani Junior college</li>
+<li>Sanjivani Pharmacirical college</li>
+</ul>
+<h2>Appllication Form for sanjivani Group Of Intitute</h2>
+ <input type="text" Placeholder="First Name">
+<input type="text" Placeholder="Middle Name">
+<input type="text" Placeholder="Last Name"><br>
+<input type="Number" Placeholder="Mobile number"><br>
+<input type="text" Placeholder="Adderress"><br>
+<h3>Select appropriate Course In sanjivani</h3>
+<select> 
+<option>~~~~~Select Course~~~~~</option>
+<option>Sanjivani K.B.P plytecnic college</option>
+<option>Sanjivani Enggneering college</option>
+<option>Sanjivani B.sc,Arts,Commerse college</option>
+<option>Sanjivani Junior college</option>
+<option>sanjivani Pharmacirical college</option>
+</select>
+<h3>Select appropriate Departement</h3>
+<select>
+<option>~~~~Select Departement~~~~~</option>
+<option>Computer Technology</option>
+<option>Information Technology</option>
+<option>Mechanical enggenering</option>
+<option>Civil enggnering</option>
+<option>Electronics</option>
+</select>
+<input type="checkbox">First Year
+<input type="checkbox">Second Year
+<input type="checkbox">Third Year<br>
+<h4>###Gender###</h4>
+ <input type="radio"  name="Gender">Male
+ <input type="radio"  name="Gender">Female
+</body>
+</html>
